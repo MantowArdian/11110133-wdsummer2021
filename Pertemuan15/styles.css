@@ -1,0 +1,21 @@
+        p{
+            color: red;
+            font-size: 20px;
+        }
+        h1{
+            color: blue;
+            font-size: 50px;
+        }
+        .eror{
+            color:red;
+            border: yellow;   
+        }
+        .success{
+            color: green;
+            
+        }
+        .feedback{
+            border-width: 5px;
+            border-color: yellow;
+            border-style: solid;
+        }
