@@ -14,6 +14,14 @@
             color: green;
             border: 5px solid yellow;
         }   
+        .kursor {
+            color: red;
+            font-size: 20px;
+        }
+        .navigasi{
+            border: 2px solid black;
+            font-style: oblique;
+        }
         /* }
         .feedback{
             /* border-width: 5px;
@@ -37,4 +45,13 @@
         }
         a[href$=".ac.id"]{
             background-color: purple;
+        }
+        h3:hover{
+            color: yellow;
+            background-color: burlywood;
+        }
+        p::selection{
+            color:yellow;
+            background-color: red;
+            
         }
