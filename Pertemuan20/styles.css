@@ -1,0 +1,13 @@
+html{
+    font-size: 0.625rem;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 0.75rem;
+}
+p.pixel {
+    font-size: 16px;
+}
+p.em {
+    font-size: 0.5rem;
+}
