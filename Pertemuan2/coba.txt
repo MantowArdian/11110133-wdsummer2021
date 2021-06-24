@@ -1,0 +1,3 @@
+Simulasi Tracking Histori in offline dan online Repository (Github) by Git Command
+1. Menambahkan kode program hari rabu
+2. Menambahkan kode program hari kamis
